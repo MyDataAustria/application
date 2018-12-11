@@ -61,7 +61,7 @@ Various initiatives in Austria address MyData goals and want to create a common 
 
 
 ## Additional information
-*Coordinator / contact person for MyData Austria Hub:* name@email
+*Coordinator / contact person for MyData Austria Hub:* name@email  
 *Initiative name:* MyData Austria Hub  
 
 Comments:
