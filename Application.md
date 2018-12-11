@@ -24,7 +24,8 @@ Christoph Fabianek (MyData Global, individual member) - christoph.fabianek@gmail
 
 
 ## Would you like to establish a Local Hub or Thematic Group?
-Local hub
+Local hub  
+
 Comments:
 * start with a Local Hub covering the Austrian geographic area with a strong focus on developing a roadmap; if this is successful we can start a Thematic Group afterwards
 * the MyData Austria Hub is not a legal entity for now but a group of people interested in promoting MyData
@@ -35,7 +36,8 @@ info@mydatahub.at
 
 
 ## Twitter, Facebook, other social media, personal website (if available)
-http://mydatahub.at
+http://mydatahub.at  
+
 Comments:
 * Christoph: I’d prefer to setup a meetup page and point to this website instead; from the past I know that keeping a webpage up-to-date is hard and with meetup.com we would get an established infrastructure
 
@@ -59,10 +61,9 @@ Various initiatives in Austria address MyData goals and want to create a common 
 
 
 ## Additional information
-Coordinator / contact person for MyData Austria Hub: name@email
-Initiative name: MyData Austria Hub
+*Coordinator / contact person for MyData Austria Hub:* name@email
+*Initiative name:* MyData Austria Hub  
 
-
-## Comments:
+Comments:
 * from the response of our initial contact with MyData to found MyData Austria Hub:
 “An Initiative need to appoint a Coordinator and share their contact information with MyData Global team for publication. The Coordinator should be a member of MyData Global. The Coordinator will be the main representative of an Initiative, and his/her primary role will be to develop and maintain the strategy for the Initiative together with its participants.”
