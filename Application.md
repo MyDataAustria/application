@@ -17,7 +17,8 @@
 ## Authors
 Christoph Fabianek (MyData Global, individual member) - christoph.fabianek@gmail.com  
 Michael Shea (MyData Global, individual member, coordinator candidate) - michael.shea@thedinglegroup.com  
-Markus Sabadello (MyData Global, individual member) - markus@danubetech.com  
+Markus Sabadello (MyData Global, individual member) - markus@danubetech.com
+Soheil Human (MyData Global, individual member [applicaiton sent]) - soheil.human@wu.ac.at
 
 
 # MyData Austria Hub Application
@@ -39,7 +40,8 @@ info@mydatahub.at
 http://mydatahub.at  
 
 Comments:
-* Christoph: I’d prefer to setup a meetup page and point to this website instead; from the past I know that keeping a webpage up-to-date is hard and with meetup.com we would get an established infrastructure
+* Christoph: I’d prefer to setup a meetup page and point to this website instead; from the past I know that keeping a webpage up-to-date is hard and with meetup.com we would get an established infrastructure/
+* Soheil: We can have a simple static website for the time being which points to the meetup.com page as well. However, since we aim to publish a roadmap, I prefer to maintain a website, even if it would be a simple static one.
 
 
 ## Describe your main motivation for establishing a Hub
@@ -47,12 +49,12 @@ Various initiatives in Austria address MyData goals and want to create a common 
 - Christoph Fabianek (OwnYourData): Personal Data Store
 - Michael Shea: Identity Management
 - Robert Mitwicki (Lab10 Collective): Blockchain, Self-Sovereign Identity and related tech
-- Soheil Human (EXPEDiTE): research project at Vienna Economic University about GDPR
+- Soheil Human (Vienna University of Economics and Business): various research project on Privacy, Personal Data Ecosystems, and Accountable Information Systems, including the EXPEDiTe project ("EXPloring opportunities and challenges for Emerging personal DaTa Ecosystems") funded by Austrian Ministry for Transport, Innovation and Technology.
 
 
 ## What are your concrete plans for the upcoming year?
-- develop a roadmap for MyData in Austria, first final version due: Sept 2019, afterwards updated on a yearly basis
-- hold quarterly meetups to promote MyData
+- Developing a roadmap for MyData in Austria, first final version due: Sept 2019, afterwards updated on a yearly basis
+- Holding quarterly meetups to promote MyData
 
 
 ## What kind of support would you like to have from the MyData Global team and fellow Hubs and Groups?
@@ -61,8 +63,8 @@ Various initiatives in Austria address MyData goals and want to create a common 
 
 
 ## Additional information
-*Coordinator / contact person for MyData Austria Hub:* name@email  
-*Initiative name:* MyData Austria Hub  
+- Coordinator / contact person for MyData Austria Hub:* info@mydatahub.at  
+- Initiative name:* MyDataHub Austria (myDataHub.at)
 
 Comments:
 * from the response of our initial contact with MyData to found MyData Austria Hub:
