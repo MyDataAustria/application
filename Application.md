@@ -16,8 +16,8 @@
 
 ## Authors
 Christoph Fabianek (MyData Global, individual member) - christoph.fabianek@gmail.com  
-Michael Shea (MyData Global, individual member) - michael.shea@thedinglegroup.com
-
+Michael Shea (MyData Global, individual member, coordinator candidate) - michael.shea@thedinglegroup.com  
+Markus Sabadello (MyData Global, individual member) - markus@danubetech.com  
 
 
 # MyData Austria Hub Application
@@ -44,10 +44,10 @@ Comments:
 
 ## Describe your main motivation for establishing a Hub
 Various initiatives in Austria address MyData goals and want to create a common platform to share ideas and promote the underlying ideas. In alphabetical order:
-- Danube Tech (Markus Sabadello): Self-Sovereign Identity
-- EXPEDiTE (Soheil Human): research project at Vienna Economic University about GDPR
-- Lab10 Collective (Robert Mitwicki): Blockchain, Self-Sovereign Identity and related tech
-- OwnYourData (Christoph Fabianek): Personal Data Store
+- Christoph Fabianek (OwnYourData): Personal Data Store
+- Michael Shea: Identity Management
+- Robert Mitwicki (Lab10 Collective): Blockchain, Self-Sovereign Identity and related tech
+- Soheil Human (EXPEDiTE): research project at Vienna Economic University about GDPR
 
 
 ## What are your concrete plans for the upcoming year?
