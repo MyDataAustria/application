@@ -16,7 +16,7 @@
 
 ## Authors
 Christoph Fabianek (MyData Global, individual member) - christoph.fabianek@gmail.com
-
+Michael Shea (MyData Global, individual member) - michael.shea@thedinglegroup.com
 
 
 
