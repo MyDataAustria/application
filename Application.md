@@ -15,11 +15,11 @@
 
 
 ## Authors
-Christoph Fabianek (MyData Global, individual member) - christoph.fabianek@gmail.com  
-Michael Shea (MyData Global, individual member, coordinator candidate) - michael.shea@thedinglegroup.com  
-Markus Sabadello (MyData Global, individual member) - markus@danubetech.com
-Soheil Human (MyData Global, individual member [applicaiton sent]) - soheil.human@wu.ac.at
-
+* Christoph Fabianek (MyData Global, individual member) - christoph.fabianek@gmail.com  
+* Michael Shea (MyData Global, individual member, coordinator candidate) - michael.shea@thedinglegroup.com  
+* Markus Sabadello (MyData Global, individual member) - markus@danubetech.com
+* Soheil Human (MyData Global, individual member [applicaiton sent]) - soheil.human@wu.ac.at
+* Robert Mitwicki (Founder of MyData Global via Lab10 Collective) - robert@lab10.coop
 
 # MyData Austria Hub Application
 
@@ -60,6 +60,7 @@ Various initiatives in Austria address MyData goals and want to create a common 
 ## What kind of support would you like to have from the MyData Global team and fellow Hubs and Groups?
 - guiding support in bootstrapping a local hub
 - visit for a talk to one of the upcoming meetups
+- cross collaboration on planed projects
 
 
 ## Additional information
