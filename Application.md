@@ -47,6 +47,7 @@ Various initiatives in Austria address MyData goals and want to create a common 
 - Michael Shea: Identity Management
 - Robert Mitwicki (Lab10 Collective): Blockchain, Self-Sovereign Identity and related tech
 - Soheil Human (Vienna University of Economics and Business): various research project on Privacy, Personal Data Ecosystems, and Accountable Information Systems, including the EXPEDiTe project ("EXPloring opportunities and challenges for Emerging personal DaTa Ecosystems") funded by Austrian Ministry for Transport, Innovation and Technology.
+- Markus Sabadello (Danube Tech): DIDs, Verifiable Claims, XDI, and other decentralized identity tech
 
 
 ## What are your concrete plans for the upcoming year?
