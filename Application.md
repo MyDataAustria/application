@@ -15,13 +15,14 @@
 
 
 ## Authors
-* Christoph Fabianek (MyData Global, individual member, coordinator candidate) - christoph.fabianek@gmail.com  
-* Michael Shea (MyData Global, individual member, coordinator candidate) - michael.shea@thedinglegroup.com  
+* Christoph Fabianek (MyData Global, individual member) - christoph@ownyourdata.eu  
+* Michael Shea (MyData Global, individual member) - michael.shea@thedinglegroup.com  
 * Markus Sabadello (MyData Global, individual member) - markus@danubetech.com
 * Soheil Human (MyData Global, individual member [applicaiton sent]) - soheil.human@wu.ac.at
 * Robert Mitwicki (Founder of MyData Global via Lab10 Collective) - robert@lab10.coop
 * Axel Polleres - axel.polleres@wu.ac.at
 * Elmar Kiesling - elmar.kiesling@tuwien.ac.at
+
 
 # MyData Austria Hub Application
 
@@ -29,23 +30,14 @@
 ## Would you like to establish a Local Hub or Thematic Group?
 Local hub  
 
-Comments:
-* start with a Local Hub covering the Austrian geographic area with a strong focus on developing a roadmap; if this is successful we can start a Thematic Group afterwards
-* the MyData Austria Hub is not a legal entity for now but a group of people interested in promoting MyData
-
 
 ## Contact email
-info@mydatahub.at
+christoph@ownyourdata.eu
 
 
 ## Twitter, Facebook, other social media, personal website (if available)
 https://www.meetup.com/MyDataHub-Austria/  
 http://mydatahub.at  
-
-Comments:
-* Christoph: I’d prefer to setup a meetup page and point to this website instead; from the past I know that keeping a webpage up-to-date is hard and with meetup.com we would get an established infrastructure/
-* Soheil: We can have a simple static website for the time being which points to the meetup.com page as well. However, since we aim to publish a roadmap, I prefer to maintain a website, even if it would be a simple static one.
-* Christoph: I have created now a basic Meetup page
 
 
 ## Describe your main motivation for establishing a Hub
@@ -69,9 +61,15 @@ Various initiatives in Austria address MyData goals and want to create a common 
 
 
 ## Additional information
-- Coordinator / contact person for MyData Austria Hub: email of selected coordinator  
-- Initiative name: MyDataHub Austria (myDataHub.at)
+- Initiative name: MyDataHub Austria  
+- Coordinator / contact person for MyData Austria Hub: Christoph Fabianek <christoph@ownyourdata.eu>  
+- Email address of MyDataHub Austria: info@mydatahub.at  
 
-Comments:  
-* from the response of our initial contact with MyData to found MyData Austria Hub:
-“An Initiative need to appoint a Coordinator and share their contact information with MyData Global team for publication. The Coordinator should be a member of MyData Global. The Coordinator will be the main representative of an Initiative, and his/her primary role will be to develop and maintain the strategy for the Initiative together with its participants.”
+This is the member list of MyDataHub Austria (in alphabetical order):
+* Axel Polleres
+* Christoph Fabianek (MyData Global individual member)  
+* Elmar Kiesling
+* Michael Shea (MyData Global individual member)  
+* Markus Sabadello (MyData Global individual member)
+* Robert Mitwicki (MyData Global member via Lab10 Collective organization)
+* Soheil Human (MyData Global individual member)
