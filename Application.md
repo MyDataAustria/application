@@ -74,3 +74,6 @@ This is the member list of MyDataHub Austria (in alphabetical order):
 * Markus Sabadello (MyData Global individual member)
 * Robert Mitwicki (MyData Global member via Lab10 Collective organization)
 * Soheil Human (MyData Global individual member)
+
+## Application Submission
+Our application with the information above was submitted on December 20th, 2018 at 4:10pm.
